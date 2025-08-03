@@ -1,0 +1,40 @@
+{
+  "name": "servion-login-page",
+  "version": "1.0.0",
+  "description": "A modern login page for Servion Global Solutions Pvt Ltd with user role management and local storage.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "login",
+    "user management",
+    "roles",
+    "permissions",
+    "local storage"
+  ],
+  "author": "Servion Global Solutions Pvt Ltd",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^5.24.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^5.3.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3",
+    "babel-loader": "^8.4.1",
+    "css-loader": "^7.1.2",
+    "eslint": "^7.24.0",
+    "html-webpack-plugin": "^5.6.3",
+    "prettier": "^2.2.1",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.99.5",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.1"
+  }
+}

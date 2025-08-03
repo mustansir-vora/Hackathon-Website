@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "admin",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "testmaker",
+    "password": "maker123",
+    "role": "maker"
+  },
+  {
+    "id": 3,
+    "name": "testchecker",
+    "password": "checker123",
+    "role": "checker"
+  },
+  {
+    "id": 4,
+    "name": "testviewer",
+    "password": "viewer123",
+    "role": "viewer"
+  },
+  {
+    "name": "mustansir",
+    "password": "mustansir123",
+    "role": "admin",
+    "id": 5
+  },
+  {
+    "name": "testuser",
+    "password": "test123",
+    "role": "viewer",
+    "id": 6
+  },
+  {
+    "name": "testuser2",
+    "password": "test123",
+    "role": "viewer",
+    "id": 7
+  },
+  {
+    "name": "testuser3",
+    "password": "test123",
+    "role": "maker",
+    "id": 8
+  },
+  {
+    "name": "testuser4",
+    "password": "test123",
+    "role": "checker",
+    "id": 9
+  },
+  {
+    "name": "test",
+    "password": "ENCHiladas!@#$142000",
+    "role": "admin",
+    "id": 10
+  }
+]

@@ -1,0 +1,4 @@
+The specified directory for fonts is typically where font files would be stored. Since no specific font files were mentioned, this directory will be left empty.
+
+public/assets/fonts
+<!-- This file is intentionally left blank. -->

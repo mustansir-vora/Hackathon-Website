@@ -1,0 +1,18 @@
+/* Global Styles */
+html, body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: transparent;
+}
+
+.language-option {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.language-option:hover {
+  background-color: #0056b3 !important;
+  color: white !important;
+  cursor: pointer;
+}
